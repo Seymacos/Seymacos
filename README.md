@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'AM ŞEYMA COŞTUR
 A passionate computer engineer student from Türkiye.<br>I’m currently working on Machine Learning and Pattern Recognition.<br>
 
 
