@@ -30,7 +30,8 @@ SQL Server, MariaDB, BigQuery
 Git, GitHub, Docker, Jupyter Notebook, Kaggle, n8n, Render
 
 **Frameworks**  
-React, Node.js, .NETthe-badge&logo=jira&logoColor=white)
+React, Node.js, .NET
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Seymacos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Seymacos&theme=tokyonight&hide_border=false)<br/>
