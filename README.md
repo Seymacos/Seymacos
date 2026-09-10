@@ -12,8 +12,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyma-costur) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Seymacostur)
-# 💻 Tech Stack:
-## 🛠️ Skills
+# 🛠️ Skills
 
 **Programming**  
 Python, SQL, C++, C#, JavaScript
